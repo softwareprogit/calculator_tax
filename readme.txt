@@ -1,7 +1,7 @@
 === Tax Calculator ===
 /**
  * Plugin Name: Calculator of Tax
- * Plugin URI: http://www.softwarepro.com
+ * Plugin URI: 
  * Description: This plugin is for Calculating the Tax.
  * Version: 1.0
  * Author: Rana Shabbir
@@ -25,4 +25,4 @@
 
 1. Download the plugin file from this page and unzip the contents
 1. Upload the `calculator-of-tax` folder to the `/wp-content/plugins/` directory
-1. Activate the `tax-calculator` plugin through the 'Plugins' menu in WordPress
+1. Activate the `calculator-of-tax` plugin through the 'Plugins' menu in WordPress
